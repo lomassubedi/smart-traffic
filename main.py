@@ -18,3 +18,5 @@ plt.subplot(2, 2, i+1), plt.imshow(images[i], 'gray') #creating a 2 by 2 subplot
 plt.title(titles[i])
 plt.xticks([]),plt.yticks([])
 plt.show()
+
+#testing push
